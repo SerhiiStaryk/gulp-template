@@ -1,2 +1,2 @@
 # gulp-template
-create simple gulp template
+simple gulp template
